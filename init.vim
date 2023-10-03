@@ -12,6 +12,7 @@ Plug 'https://github.com/vim-airline/vim-airline.git'
 Plug 'https://github.com/preservim/nerdtree'
 Plug 'https://github.com/morhetz/gruvbox'
 Plug 'https://github.com/preservim/tagbar'
+Plug 'https://github.com/neoclide/coc.nvim'
 call plug#end()
 colorscheme gruvbox
 
